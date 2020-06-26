@@ -9,3 +9,6 @@
 -Whenever the user enter the invalid/missing fields that are required, the notification will appear. 
 
 -When the user successes enter the informations correct, the congratulation will appear. 
+
+## Test:
+https://codepen.io/huynhhoang91/pen/jOWLNBa
